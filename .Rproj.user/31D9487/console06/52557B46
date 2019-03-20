@@ -1,0 +1,17 @@
+]0;~/Project1[?1034hPhils-Air:Project1 philmccabe$ [KPhils-Air:Project1 philmccabe$ cd ~/dir/name/of/path/to/file[K[K[K[K[K[KHir/name/of/path/toir/name/of/path/tmir/name/of/path/teir/name/of/path/t[C[C[1P/name/of/path/t[1P/name/of/path/t[1PHome/name/of/path/t[C[C[C[C[C[C[C[C[C[1P/of/path/t[1P/of/path/t[1P/of/path/t[1P/of/path/tT/of/path/te/of/path/ts/of/path/tt/of/path/t1/of/path/t[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K
+bash: cd: /Users/philmccabe/Home/Test1/: No such file or directory
+]0;~/Project1Phils-Air:Project1 philmccabe$ cdn[K ~//Users/philmccabe/Home/Test1/[1PUsers/philmccabe/Home/Test1/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+bash: cd: /Users/philmccabe/Users/philmccabe/Home/Test1/: No such file or directory
+]0;~/Project1Phils-Air:Project1 philmccabe$ cd ~/Users/philmccabe/Home/Test1/[K
+bash: cd: /Users/philmccabe/Users/philmccabe/Home/Test1: No such file or directory
+]0;~/Project1Phils-Air:Project1 philmccabe$ /Users/philmccabe/Home/Test1/[K[K[C[C[C[C[C[C1[C[C[C[C[C[1P/Test1[1P/Test1[1P/Test1[1P/Test1[1PTest1[1P/Test1[1P/Test1[1P/Test1[1P/Test1[1P/Test1[1P/Test1[1P/Test1[1P/Test1[1P/Test1[1P/Test1[1PTest1[1P/Test1[1P/Test1[1P/Test1[1P/Test1[1P/Test1[1PTest1c/Test1d/Test1 /Test1~/Test1[C[C[C[C[C[C
+]0;~/Test1Phils-Air:Test1 philmccabe$ git init
+Reinitialized existing Git repository in /Users/philmccabe/Test1/.git/
+]0;~/Test1Phils-Air:Test1 philmccabe$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+]0;~/Test1Phils-Air:Test1 philmccabe$ git add .
+]0;~/Test1Phils-Air:Test1 philmccabe$ cd ~/Project1
+]0;~/Project1Phils-Air:Project1 philmccabe$ git init
+Initialized empty Git repository in /Users/philmccabe/Project1/.git/
+]0;~/Project1Phils-Air:Project1 philmccabe$ git add.[K .
